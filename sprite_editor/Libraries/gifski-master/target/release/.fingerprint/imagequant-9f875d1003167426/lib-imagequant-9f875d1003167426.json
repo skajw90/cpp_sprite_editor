@@ -1,0 +1,1 @@
+{"rustc":7306136955314731686,"features":"[\"default\", \"imagequant-sys\", \"sse\"]","target":16963800477208146202,"profile":4504759427080151993,"path":4123476835662003784,"deps":[["imagequant-sys v2.12.0","imagequant_sys",14810840593317083545],["libc v0.2.43","libc",3486572823854140742]],"local":[{"Precalculated":"2.11.9"}],"rustflags":[],"edition":"Edition2015"}

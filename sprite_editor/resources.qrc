@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/Icons">
+        <file>Images/pencil_32.png</file>
+        <file>Images/color_dropper_32.png</file>
+        <file>Images/eraser_32.png</file>
+        <file>Images/paint_bucket_32.png</file>
+        <file>Images/rectangle_32.png</file>
+        <file>Images/color_wheel_32.png</file>
+        <file>Images/redo_32.png</file>
+        <file>Images/undo_32.png</file>
+        <file>Images/gif_export_32.png</file>
+        <file>Images/load_32.png</file>
+        <file>Images/new_32.png</file>
+        <file>Images/save_32.png</file>
+        <file>Images/actual_size_32.png</file>
+        <file>Images/fit_size_32.png</file>
+        <file>Images/resize_32.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+/home/li-ubuntu/A6/gifski-master/target/release/deps/librgb-c05ff80f9329c20a.rlib: /home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/lib.rs /home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/internal/rgb.rs /home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/internal/rgba.rs /home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/internal/pixel.rs /home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/internal/ops.rs /home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/internal/convert/mod.rs /home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/internal/convert/tuple.rs /home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/alt.rs
+
+/home/li-ubuntu/A6/gifski-master/target/release/deps/rgb-c05ff80f9329c20a.d: /home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/lib.rs /home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/internal/rgb.rs /home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/internal/rgba.rs /home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/internal/pixel.rs /home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/internal/ops.rs /home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/internal/convert/mod.rs /home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/internal/convert/tuple.rs /home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/alt.rs
+
+/home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/lib.rs:
+/home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/internal/rgb.rs:
+/home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/internal/rgba.rs:
+/home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/internal/pixel.rs:
+/home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/internal/ops.rs:
+/home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/internal/convert/mod.rs:
+/home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/internal/convert/tuple.rs:
+/home/li-ubuntu/.cargo/registry/src/github.com-1ecc6299db9ec823/rgb-0.8.11/src/alt.rs:
